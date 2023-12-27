@@ -1,5 +1,6 @@
 
 # Locate My Family App 📱
+<img src="https://github.com/UsamaHameed1/Locate-My-Family-App/blob/main/Markdown%20Images/LMF_logo.png" width="250">
 
 Locate My Family is a mobile application designed to empower parents by providing real-time tracking of their children's mobile phones. Built using Flutter and Dart, the app leverages the Google Maps API for mapping functionalities and utilizes Firebase as its database. 🚀
 
